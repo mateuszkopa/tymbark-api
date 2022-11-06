@@ -6,7 +6,6 @@
 </head>
 <body>
   <section>
-      <br>
     <div class="text">
       <h1 class="title">Tymbark API</h1>
       <a href="https://github.com/mateuszk0pa"><img src="https://img.shields.io/badge/Created%20by:-mateuszk0pa-success?style=for-the-badge&logo=github"></a>
