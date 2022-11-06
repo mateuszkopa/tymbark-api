@@ -30,15 +30,7 @@ print(numer)
 
 Process finished with exit code 0
       </code></pre>
-
-      <h4>Curl:</h4>
-      <pre><code>curl -X GET https://tymbark-api.k0pa.repl.co
-      </code></pre>
-        <h4>Wynik:</h4>
-        <pre><code class="language-python">{"haslo": "FRESHSTYLER", "numer": "130"}
-      </code></pre>
     </div>
-      <br>
   </section>
 </body>
 </html>
