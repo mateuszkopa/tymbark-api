@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="Mateusz Kopaszewski">
-    <title>Docs - Tymbark API</title>
 </head>
 <body>
   <section>
