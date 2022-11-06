@@ -3,42 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="Mateusz Kopaszewski">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Docs - Tymbark API</title>
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/monokai.min.css">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js"></script>
-    <script>hljs.highlightAll();</script>
-    <style>
-        body {
-            background-color: #272822;
-        }
-        section {
-            margin-left: 25%;
-            margin-right: 25%;
-            margin-top: 2%;
-            color: white;
-            background-color: gray;
-            border-radius: 20px;
-        }
-        .text {
-            margin-left: 4%;
-            margin-right: 4%;
-        }
-
-        @media (max-width: 899px) {
-            section {
-                margin-left: 13%;
-                margin-right: 13%;
-                margin-top: 7%;
-                color: white;
-                background-color: gray;
-                border-radius: 20px;
-            }
-            img {
-                width: 80%;
-            }
-        }
-    </style>
 </head>
 <body>
   <section>
