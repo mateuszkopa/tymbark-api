@@ -31,7 +31,6 @@ print(numer)
 Process finished with exit code 0
       </code></pre>
 
-
       <h4>Curl:</h4>
       <pre><code class="highlightjs-curl">curl -X GET https://tymbark-api.k0pa.repl.co
       </code></pre>
